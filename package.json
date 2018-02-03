@@ -1,0 +1,23 @@
+{
+  "name": "mynodelib",
+  "version": "1.0.0",
+  "description": "sample nodejs library for upcoming node modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiyamalan/mynodelib.git"
+  },
+  "keywords": [
+    "lib",
+    "node"
+  ],
+  "author": "srishiyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiyamalan/mynodelib/issues"
+  },
+  "homepage": "https://github.com/shiyamalan/mynodelib#readme"
+}

@@ -1,0 +1,23 @@
+
+
+mathfunc = function(){
+
+}
+module.exports = mathfunc;
+
+mathfunc.add  = function(a,b){
+  return a + b;
+};
+
+mathfunc.subtract  = function(a,b){
+  return a - b;
+};
+
+mathfunc.multiply  = function(a,b){
+  return a*b;mathfunc.subtract  = function(a,b){
+    return a - b;
+  };
+};
+mathfunc.division  = function(a,b){
+  return a/b;
+};
